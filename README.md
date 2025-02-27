@@ -1,5 +1,5 @@
 # Calendar
-![calendar image]("https://github.com/tejaswini-ganji/calendar/blob/main/assets/calendar%20pic.jpeg
+![calendar image]("https://github.com/tejaswini-ganji/calendar/blob/main/assets/calendar%20pic.jpeg")
 ## Description
 This is a simple calendar application written in C that provides basic functionalities such as viewing a 12-month calendar for any given year, finding the corresponding day for a specific date, checking the current date and time, adding reminders, viewing saved reminders, and determining zodiac signs.
 
