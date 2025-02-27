@@ -19,9 +19,9 @@ This is a simple calendar application written in C that provides basic functiona
  -  Language : C
  -  Libraries : time.h , stdio.h
 ## Installation
-1. Clone the repository:
+- Clone the repository:
    ```sh
-  https://github.com/tejaswini-ganji/calendar.git
+   https://github.com/tejaswini-ganji/calendar.git
 ## How to Run
   - Linux/macos
      - compile :
